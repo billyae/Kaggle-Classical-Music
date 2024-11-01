@@ -6,3 +6,4 @@ category_encoders
 lightgbm
 xgboost
 catboost
+torch
